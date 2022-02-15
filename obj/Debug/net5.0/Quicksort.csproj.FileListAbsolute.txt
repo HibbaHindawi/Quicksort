@@ -1,0 +1,15 @@
+/Users/hibba/Documents/GitHub/Quicksort/bin/Debug/net5.0/Quicksort.deps.json
+/Users/hibba/Documents/GitHub/Quicksort/bin/Debug/net5.0/Quicksort.runtimeconfig.json
+/Users/hibba/Documents/GitHub/Quicksort/bin/Debug/net5.0/Quicksort.runtimeconfig.dev.json
+/Users/hibba/Documents/GitHub/Quicksort/bin/Debug/net5.0/Quicksort.dll
+/Users/hibba/Documents/GitHub/Quicksort/bin/Debug/net5.0/ref/Quicksort.dll
+/Users/hibba/Documents/GitHub/Quicksort/bin/Debug/net5.0/Quicksort.pdb
+/Users/hibba/Documents/GitHub/Quicksort/obj/Debug/net5.0/Quicksort.csproj.AssemblyReference.cache
+/Users/hibba/Documents/GitHub/Quicksort/obj/Debug/net5.0/Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hibba/Documents/GitHub/Quicksort/obj/Debug/net5.0/Quicksort.AssemblyInfoInputs.cache
+/Users/hibba/Documents/GitHub/Quicksort/obj/Debug/net5.0/Quicksort.AssemblyInfo.cs
+/Users/hibba/Documents/GitHub/Quicksort/obj/Debug/net5.0/Quicksort.csproj.CoreCompileInputs.cache
+/Users/hibba/Documents/GitHub/Quicksort/obj/Debug/net5.0/Quicksort.dll
+/Users/hibba/Documents/GitHub/Quicksort/obj/Debug/net5.0/ref/Quicksort.dll
+/Users/hibba/Documents/GitHub/Quicksort/obj/Debug/net5.0/Quicksort.pdb
+/Users/hibba/Documents/GitHub/Quicksort/obj/Debug/net5.0/Quicksort.genruntimeconfig.cache
